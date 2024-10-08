@@ -1,2 +1,2 @@
 # TsiAI
-#Tymek Sadowski 
+# Tymek Sadowski 
